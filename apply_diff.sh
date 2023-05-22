@@ -10,7 +10,7 @@ declare -A MAX_MEMORY=(
   ["500"]="-Xmx3200m"
   ["1000"]="-Xmx6800m"
   ["app"]="-Xmx20000m"
-  ["all"]="-Xmx50g"
+  ["all"]="-Xmx35g"
 )
 
 
